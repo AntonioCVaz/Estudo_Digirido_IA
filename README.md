@@ -53,7 +53,7 @@ O objetivo é prever a **categoria administrativa** (rede) de cursos de graduaç
 1. Clone o repositório:
    ```bash
    git clone https://github.com/AntonioCVaz/Estudo_Digirido_IA
-   cd <nome-da-pasta>
+   cd Estudo_Digirido_IA
    ```
 2. Crie um ambiente virtual (opcional, mas recomendado):
    ```bash
